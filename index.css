@@ -88,3 +88,9 @@ height: 100px;
     transform: scale(1.1);
 }
 
+main img{
+    border-radius: 0%;
+    width: 60px;
+    height: 60px;
+    
+}
